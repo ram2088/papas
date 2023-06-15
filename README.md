@@ -1,2 +1,3 @@
 # papas
-este es un  repositorio
+Estoy aprendiendo Pull Requests
+
